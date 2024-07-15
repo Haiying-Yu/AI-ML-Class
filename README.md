@@ -45,3 +45,5 @@ Time: 10AM, 2PM, or 6PM
 Passenger: alone, partner, kid(s), or friend(s)
 Coupon attributes
 
+########
+In this assignment, I evaluated both Bar Coupon and Coffee Shop Coupon to see what type of customers will mostly likely to accept the coupons.
