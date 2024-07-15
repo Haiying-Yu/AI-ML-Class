@@ -1,0 +1,109 @@
+,destination,passanger,weather,temperature,time,coupon,expiration,gender,age,maritalStatus,has_children,education,occupation,income,car,Bar,CoffeeHouse,CarryAway,RestaurantLessThan20,Restaurant20To50,toCoupon_GEQ5min,toCoupon_GEQ15min,toCoupon_GEQ25min,direction_same,direction_opp,Y
+1237,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1238,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,0
+1239,No Urgent Place,Friend(s),Sunny,80,10AM,Bar,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1240,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,0
+1241,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1242,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,0
+1243,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,1
+1244,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(<20),1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,1
+1245,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,0
+1246,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,1
+1247,No Urgent Place,Friend(s),Sunny,55,2PM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,0
+1248,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,1
+1249,No Urgent Place,Alone,Sunny,55,10AM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1250,Home,Alone,Sunny,55,6PM,Bar,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,1,0,0
+1251,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,0
+1252,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1253,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,1,0,1,1
+1254,Work,Alone,Sunny,55,7AM,Bar,1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,1,0,1,0
+1255,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,0
+1256,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,1,0,0
+1257,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,0,0,0,1,1
+1258,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Single,0,Graduate degree (Masters or Doctorate),Sales & Related,$12500 - $24999,Scooter and motorcycle,less1,4~8,4~8,1~3,never,1,1,0,0,1,0
+2604,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,0,1,1
+2605,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,0,1,1
+2606,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2607,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,1
+2608,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2609,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2610,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,1
+2611,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2612,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2613,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2614,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,0,1,0
+2615,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2616,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2617,Home,Alone,Sunny,55,6PM,Bar,1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,1,0,0
+2618,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,1
+2619,Home,Alone,Sunny,80,6PM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,0,1,1
+2620,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,1,0,1,1
+2621,Work,Alone,Sunny,55,7AM,Bar,1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,1,0,1,0
+2622,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+2623,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,0,0,1,0,1
+2624,Work,Alone,Sunny,55,7AM,Coffee House,2h,Female,41,Married partner,1,Bachelors degree,Legal,$100000 or More,crossover,never,1~3,1~3,1~3,less1,1,1,0,0,1,0
+3092,No Urgent Place,Alone,Sunny,55,2PM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,0,1,1
+3093,No Urgent Place,Friend(s),Sunny,80,10AM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,0,1,1
+3094,No Urgent Place,Friend(s),Sunny,80,10AM,Carry out & Take away,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,0
+3095,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3096,No Urgent Place,Friend(s),Sunny,80,2PM,Coffee House,1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3097,No Urgent Place,Friend(s),Sunny,80,6PM,Restaurant(<20),2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3098,No Urgent Place,Friend(s),Sunny,55,2PM,Carry out & Take away,1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3099,No Urgent Place,Kid(s),Sunny,80,10AM,Restaurant(<20),2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3100,No Urgent Place,Kid(s),Sunny,80,10AM,Carry out & Take away,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3101,No Urgent Place,Kid(s),Sunny,80,10AM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,0
+3102,No Urgent Place,Kid(s),Sunny,80,2PM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,0,1,1
+3103,No Urgent Place,Kid(s),Sunny,55,2PM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3104,No Urgent Place,Kid(s),Sunny,55,6PM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3105,Home,Alone,Sunny,55,6PM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,1,0,0
+3106,Home,Alone,Sunny,55,6PM,Restaurant(20-50),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,0
+3107,Home,Alone,Sunny,80,6PM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,0,1,0
+3108,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,1,0,1,1
+3109,Work,Alone,Sunny,55,7AM,Bar,1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,1,0,1,0
+3110,Work,Alone,Sunny,80,7AM,Restaurant(20-50),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+3111,Work,Alone,Sunny,80,7AM,Carry out & Take away,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,1,0,1
+3112,Work,Alone,Sunny,55,7AM,Restaurant(<20),1d,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,0,0,0,1,1
+3113,Work,Alone,Sunny,55,7AM,Coffee House,2h,Male,26,Married partner,1,Bachelors degree,Computer & Mathematical,$87500 - $99999,Mazda5,never,less1,1~3,1~3,less1,1,1,0,0,1,1
+7305,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,0
+7306,No Urgent Place,Friend(s),Sunny,80,10AM,Restaurant(<20),1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,1
+7307,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,0
+7308,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,1
+7309,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,0
+7310,No Urgent Place,Friend(s),Sunny,55,10AM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,0
+7311,No Urgent Place,Friend(s),Sunny,55,6PM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,1
+7312,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,0
+7313,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,1
+7314,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,0
+7315,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,1
+7316,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,0
+7317,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,1,0,1
+7318,Home,Alone,Rainy,55,10PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,1,0,0
+7319,Home,Alone,Snowy,30,6PM,Coffee House,1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,0,0,1,0
+7320,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,0,1,0
+7321,Home,Alone,Sunny,80,6PM,Bar,2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,1,0,1
+7322,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,1,0,1,0
+7323,Work,Alone,Rainy,55,7AM,Restaurant(20-50),1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,1,0,1,1
+7324,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,1,0,1,0
+7325,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,1,1,0,1,1
+7326,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Female,26,Single,0,Bachelors degree,Office & Administrative Support,$87500 - $99999,do not drive,gt8,less1,1~3,1~3,1~3,1,0,0,1,0,1
+8277,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,1
+8278,No Urgent Place,Friend(s),Sunny,80,10AM,Restaurant(<20),1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,1
+8279,No Urgent Place,Alone,Sunny,55,6PM,Coffee House,2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,1
+8280,No Urgent Place,Friend(s),Sunny,80,2PM,Restaurant(20-50),2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,1
+8281,No Urgent Place,Friend(s),Sunny,80,6PM,Coffee House,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,1
+8282,No Urgent Place,Friend(s),Sunny,55,6PM,Carry out & Take away,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,1
+8283,No Urgent Place,Friend(s),Sunny,30,10PM,Restaurant(<20),2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,1
+8284,No Urgent Place,Friend(s),Rainy,55,10PM,Bar,2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,0
+8285,No Urgent Place,Friend(s),Snowy,30,10AM,Carry out & Take away,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,1
+8286,No Urgent Place,Friend(s),Snowy,30,10PM,Carry out & Take away,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,1
+8287,No Urgent Place,Alone,Sunny,80,10AM,Coffee House,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,0
+8288,Home,Alone,Sunny,30,6PM,Carry out & Take away,2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,1,0,1
+8289,Home,Alone,Rainy,55,10PM,Coffee House,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,1,0,1
+8290,Home,Alone,Snowy,30,6PM,Coffee House,1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,0,0,1,0
+8291,Home,Alone,Snowy,30,10PM,Restaurant(20-50),2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,0,1,1
+8292,Home,Alone,Sunny,80,6PM,Bar,2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,1,0,0
+8293,Work,Alone,Rainy,55,7AM,Restaurant(<20),2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,1,0,1,1
+8294,Work,Alone,Rainy,55,7AM,Restaurant(20-50),1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,1,0,1,1
+8295,Work,Alone,Snowy,30,7AM,Restaurant(<20),2h,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,1,0,1,1
+8296,Work,Alone,Snowy,30,7AM,Restaurant(20-50),1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,1,1,0,1,1
+8297,Work,Alone,Sunny,80,7AM,Restaurant(<20),1d,Male,21,Single,0,Associates degree,Computer & Mathematical,$37500 - $49999,Car that is too old to install Onstar :D,never,less1,1~3,less1,less1,1,0,0,1,0,1
